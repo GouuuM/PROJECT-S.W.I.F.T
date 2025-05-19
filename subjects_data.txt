@@ -1,0 +1,9 @@
+THR101,Introduction to Theather Arts,This course introduces students to the fundamentals of theather arts, including acting, stagecraft, voice, movement, and script analysis.,12PM-2PM
+SCI101,General Science,This introductory course provides a broad overview of fundamental scientific principles across biology, chemistry, physics, and earth science.,9AM-10AM
+ENG101,English Language and Literature,This course develops students' skills in reading, writing, speaking, and critical thinking through the study of literature and non-fiction texts.,6AM-7AM
+MAG202,Transfiguration,In this course, students learn the theoretical principles and practical applications of transfigurative spells, starting with basic object transformations and progressing to more comples tasks such as animal-to-object conversion.,10AM-12PM
+MAG201,Potions,This course introduces students to the art and science of potion-making.,10AM-12PM
+MTH101,Foundations of Mathematics,This course builds essential skills in arithmetic, algebra, geometry, and basic data analysis. Students will explore number operations, equations, ratios, percentages, graphing, and geometric reasoning.,10AM-11AM
+PE101,Physical Education and Health,This course promotes physical fitness, teamwork, and healtyh living through a variety of sports, exercises, and wellness activities.,3PM-4PM
+MAG203,Charms,In this course, students learn a wide range of practical spells, from levitation and illumination to shielding and summoning.,7AM-8AM
+MAG204,Defense Against the Dark Arts,This essential course equips students with the knowledge and practical skills needed to defend themselves against dark creatures, curses, hexes, and other malevolent magical threats.,2PM-4PM
